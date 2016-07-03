@@ -1,0 +1,146 @@
+// Overall Positive or Negative
+Positiv 1
+Negativ -1
+
+// Positive-Negative, Strong-Weak, Active-Passive
+Pstv
+ Affil
+Ngtv
+ Hostile
+Strong
+ Power
+Weak
+ Submit
+Active
+Passive
+
+//Pleasure-Pain-Feel, Arousal, EMOT(disambiguated emotion), virtue-vice(moral approval-dissaproval)
+Pleasur
+Pain
+Feel
+Arousal
+EMOT
+Virtue
+Vice
+
+//Overstatement-Understatement
+Ovrst
+Undrst
+
+//Institutional
+Academ
+ Doctrin
+Econ@
+Exch
+Exprsv
+ Sports
+ Arts
+Legal
+Milit
+Polit@
+Relig
+
+// Roles, Collectives, work
+Role
+COLL
+Work
+Ritual
+SocRel
+
+//Social Categories
+Race
+Kin@
+MALE
+Female
+NonAdlt
+HU
+ANI
+
+//Location
+Place
+ Social
+ Region
+ Route
+ Aquatic
+ Land
+ Sky
+
+//Objects
+Object
+ Tool
+ Food
+ Vehicle
+ BldgPt
+ ComnObj
+ NatObj
+ BodyPt
+
+//Communication Processes (format)
+ComForm
+Say
+
+//Motivation-Related
+Need
+Goal
+Try
+Means
+Persist
+Complet
+Fail
+
+//Change
+NatrPro
+Begin
+Vary
+Increas
+Decreas
+Finish
+Stay
+Rise
+Exert
+Fetch
+Travel
+Fall
+
+//Cognitive Orientation
+Think
+Know
+Causal
+Ought
+Perceiv
+Compare
+Eval
+Solve
+Abs@
+Quality
+FREQ
+DIST
+Time@
+Space
+Rel
+COLOR
+
+//Pronouns - name is limited
+Self
+Our
+You
+Name
+
+//Yes, No, Negation (dis-, in-) and Interjections(Slang)
+Yes
+No
+Negate
+Intrj
+
+//Verbs(interpretive, descriptive, statemental)
+IAV
+DAV
+SV
+
+//Adjectives (human-relational and non-realtional descriptive)
+IPadj
+IndAdj
+
+
+
+
